@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="utils/bot_image.jpg" alt="ProBoy-MD" width="220" style="border-radius:20px" />
+<img src="https://files.catbox.moe/nuhm5u.jpg" alt="ProBoy-MD" width="220" style="border-radius:20px" />
 
 # ProBoy‑MD
 
