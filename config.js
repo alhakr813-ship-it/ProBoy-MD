@@ -5,13 +5,13 @@ const social = require('./settings/social');
 const templates = require('./settings/templates');
 
 module.exports = {
-  ownerNumber: ["923261684315"],
-  ownerName: ["SHahan"],
+  ownerNumber: ["201158679255"],
+  ownerName: ["itadori"],
   ownerJids: [],
   sudoNumbers: [],
   sudoJids: [],
 
-  botName: "ProBoy-MD",
+  botName: "1006-MD",
   version: "3.0.42",
   prefix: ".",
   sessionName: "session",
