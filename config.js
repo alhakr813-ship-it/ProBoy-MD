@@ -6,7 +6,7 @@ const templates = require('./settings/templates');
 
 module.exports = {
   ownerNumber: ["201158679255"],
-  ownerName: ["itadori"],
+  ownerName: ["Itadori Yuji"],
   ownerJids: [],
   sudoNumbers: [],
   sudoJids: [],
@@ -20,8 +20,8 @@ module.exports = {
   cidJsonUrl: "https://proboy.vercel.app/bot/cid.json",
   updateZipUrl: "https://github.com/proboy315/ProBoy-MD/archive/refs/heads/main.zip",
 
-  packname: "ProBoy-MD",
-  author: "SHahan",
+  packname: "1006-MD",
+  author: "Itadori Yuji",
 
   selfMode: false,
   autoRead: false,
@@ -83,6 +83,6 @@ module.exports = {
   messages,
   social,
 
-  timezone: 'Asia/Karachi',
+  timezone: 'Africa/Cairo',
   maxWarnings: 3
 };
